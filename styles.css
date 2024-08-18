@@ -40,6 +40,7 @@ body {
 }
 .author_name {
     padding-left: 25px;
+    font-size: 0.8rem;
 }
 .heading_container:hover {
     color: hsl(47, 88%, 63%);   
