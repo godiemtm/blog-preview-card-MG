@@ -41,3 +41,7 @@ body {
 .author_name {
     padding-left: 25px;
 }
+.heading_container:hover {
+    color: hsl(47, 88%, 63%);   
+    cursor: pointer;
+}
